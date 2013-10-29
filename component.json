@@ -1,0 +1,10 @@
+{
+  "name": "clickable",
+  "description": "Check if a click event is clickable",
+  "version": "0.0.1",
+  "scripts": [
+    "index.js"
+  ],
+  "repo": "jonathanong/clickable",
+  "license": "MIT"
+}
